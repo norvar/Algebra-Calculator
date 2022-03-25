@@ -1,6 +1,6 @@
 # Algebra-Calculator
 
-This calculator is currently undergoing internal testing in the Google Play Store. If you would like to participate, please email us. 
+This calculator is currently undergoing internal testing in the Google Play Store. If you would like to participate, please email us. Click on the project username. The email address is just below the username in the profile.
 
 Norvar algebra calculator can perform formula operations, realize calculation simplification, and give specific calculation steps. The user enters mathematical formulas using the math symbol buttons on the calculator. The calculator compiles the entered symbols into a mathematical expression similar to normal computer languages, such as (x*y+1)^{2}, for the calculator to interpret. The creators of this calculator implanted free will in the kernel, allowing it to find specific calculation paths on its own. This enables multiple solutions to one problem.
 
